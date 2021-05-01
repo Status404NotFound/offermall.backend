@@ -1,0 +1,9 @@
+#/runtime
+/debug
+/errors
+/user_activity
+/trace
+/info
+/new_orders
+*.log
+*.log.*

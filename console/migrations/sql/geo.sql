@@ -1,0 +1,15 @@
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (228, 'United Arab Emirates', 'AE', 971);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (17, 'Bahrain', 'BH', 973);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (190, 'Saudi Arabia', 'SA', 966);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (103, 'Iraq', 'IQ', 964);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (166, 'Oman', 'OM', 968);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (111, 'Jordan', 'JO', 962);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (118, 'Kuwait', 'KW', 965);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (113, 'Kenya', 'KE', 254);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (179, 'Qatar', 'QA', 974);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (161, 'Nigeria', 'NG', 234);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (102, 'Iran', 'IR', 98);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (199, 'Egypt', 'EG', 20);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (227, 'Ukraine', 'UA', 38);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (99, 'India', 'IN', 91);
+INSERT INTO geo (geo_id, geo_name, iso, phone_code) VALUES (230, 'United States', 'US', 1);
